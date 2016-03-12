@@ -17,6 +17,6 @@ product 'Breakfast Cereal' do
 end
 
 product 'Ice Cream' do
-  quantity 5
+  quantity 2
   picker :random
 end
