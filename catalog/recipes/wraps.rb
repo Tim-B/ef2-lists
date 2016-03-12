@@ -1,0 +1,10 @@
+title 'Wraps'
+description 'Beef wraps'
+
+product 'Tortillas'
+product 'Sour Cream'
+product 'Kidney Beans'
+product 'Shredded Cheese'
+product 'Salsa'
+product 'Ground Beef'
+product 'Frozen Chicken'

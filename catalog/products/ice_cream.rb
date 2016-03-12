@@ -1,0 +1,13 @@
+title 'Ice Cream'
+description 'Assortment of ice cream flavours'
+
+sku 'B00RWTUFBQ'
+sku 'B00RWV5BW2'
+sku 'B00RWV5C4Y'
+sku 'B000RUOZ40'
+sku 'B00RWTUQ4M'
+sku 'B000YMXP7E'
+sku 'B00RWTUFAW'
+sku 'B00RWV5BUY'
+sku 'B000RUQOD0'
+sku 'B00UW6MSOS'
