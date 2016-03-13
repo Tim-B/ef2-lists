@@ -1,5 +1,5 @@
 title 'Coconut Milk'
 description 'Coconut Milk'
 
-sku 'B000SRKCGM'
-sku 'B000QSTJYO'
+asin 'B000SRKCGM'
+asin 'B000QSTJYO'

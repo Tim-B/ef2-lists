@@ -1,6 +1,6 @@
 title 'Salsa'
 description 'Mild salsa'
 
-sku 'B0015GSBMM'
-sku 'B000PYE2H8'
-sku 'B000VK6HKG'
+asin 'B0015GSBMM'
+asin 'B000PYE2H8'
+asin 'B000VK6HKG'

@@ -1,5 +1,5 @@
 title 'Bolognese Sauce'
 description 'Bolognese Sauce'
 
-sku 'B0010XXPEY'
-sku 'B00F1AE9J2'
+asin 'B0010XXPEY'
+asin 'B00F1AE9J2'

@@ -1,6 +1,6 @@
 title 'Milk'
 description 'Gallon of milk'
 
-sku 'B000PRDZSM'
-sku 'B000O6ICHI'
-sku 'B000O6K8SE'
+asin 'B000PRDZSM'
+asin 'B000O6ICHI'
+asin 'B000O6K8SE'

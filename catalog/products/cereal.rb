@@ -1,7 +1,7 @@
 title 'Breakfast Cereal'
 description 'Mixed Breakfast Cereal'
 
-sku 'B0014CSH7G'
-sku 'B0014CXSFM'
-sku 'B0014CXSI4'
-sku 'B0014CVSH2'
+asin 'B0014CSH7G'
+asin 'B0014CXSFM'
+asin 'B0014CXSI4'
+asin 'B0014CVSH2'

@@ -1,5 +1,5 @@
 title 'Kidney Beans'
 description 'Beans'
 
-sku 'B000Q5I6XC'
-sku 'B000R4CGSI'
+asin 'B000Q5I6XC'
+asin 'B000R4CGSI'

@@ -1,4 +1,4 @@
 title 'Chicken Pizza'
 description 'BBQ Chicken frozen pizza'
 
-sku 'B000RUAO04'
+asin 'B000RUAO04'
