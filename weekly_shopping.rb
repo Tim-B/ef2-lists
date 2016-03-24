@@ -1,6 +1,6 @@
 
 recipe 'Bacon and Eggs'
-recipe 'Green Curry'
+recipe 'Japanese Curry'
 recipe 'Wraps'
 recipe 'Ham Sandwiches'
 recipe 'Pizza'
@@ -11,6 +11,22 @@ product 'Bananas'
 product 'Blueberries'
 product 'Orange Juice'
 product 'Treats'
+
+product 'Milk' do
+  quantity 2
+end
+
+product 'Soft Butter' do
+  every 5, :weeks
+end
+
+product 'Cheese Block' do
+  every 3, :weeks
+end
+
+product 'Pancake Mix' do
+  every 6, :weeks
+end
 
 product 'Breakfast Cereal' do
   picker :random
